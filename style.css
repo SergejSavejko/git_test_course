@@ -4,10 +4,24 @@
 }
 
 .first_blok{
-    margin: 450px 850px;
+    text-align: center;
+    border-style: double;
+    padding: 10px;
+    margin: 100px 400px;
 }
 
 .zagl{
     font-family: Tahoma;
     color: darkblue;
+}
+.description{
+    padding-top: 20px;
+    font-family: Tahoma;
+    font-style: italic;
+    font-size: 20px;
+}
+.first{
+    font-family: Tahoma;
+    font-style: normal;
+    font-size: 20px;
 }
